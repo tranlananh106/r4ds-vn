@@ -25,7 +25,7 @@ Mời bạn xem hướng dẫn chi tiết **[tại đây](CONTRIBUTING.md)**.
 
 
 ## Bảng thuật ngữ
-Tra cứu các thuật ngữ được sử dụng trong nhóm dịch **[tại đây](glossary.md)**.
+Tra cứu các thuật ngữ được sử dụng trong nhóm dịch **[tại đây](glossary.Rmd)**.
 
 ## Mục lục
 <!--- lấy từ __bookdown.yml --->
