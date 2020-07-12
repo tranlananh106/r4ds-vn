@@ -1,7 +1,3 @@
----
-title: "Bảng thuật ngữ"
-output: html_document
----
 # Bảng thuật ngữ
 
 Các thuật ngữ cần được dịch theo chuẩn trong file này.
