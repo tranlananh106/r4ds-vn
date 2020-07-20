@@ -1,8 +1,11 @@
-# (PART) Model {-}
+<!--# (PART) Model {-}-->
+#Mô hình
 
-# Introduction {#model-intro}
+<!--# Introduction {#model-intro}-->
+##Giới thiệu
 
-Now that you are equipped with powerful programming tools we can finally return to modelling. You'll use your new tools of data wrangling and programming, to fit many models and understand how they work. The focus of this book is on exploration, not confirmation or formal inference. But you'll learn a few basic tools that help you understand the variation within your models.
+<!--Now that you are equipped with powerful programming tools we can finally return to modelling. You'll use your new tools of data wrangling and programming, to fit many models and understand how they work. The focus of this book is on exploration, not confirmation or formal inference. But you'll learn a few basic tools that help you understand the variation within your models.-->
+##Bây giờ chúng ta đã được trang bị các công cụ lập trình hữu hiệu cuối cùng chúng ta có thể quay lại với việc tạo dựng các mô hình. Chúng ta sẽ sử dụng các công cụ mới của #data wrangling và lập trình để  xây dựng các mô hình và hiểu cách vận hành của chúng. Quyển sách này tập trung vào việc khám phá, không phải xác nhận hay #formal inference. Tuy nhiên chúng ta sẽ học vài công cụ cơ bản có thể giúp ta hiểu được các biến thể trong các mô hình của chúng ta.
 
 ```{r echo = FALSE, out.width = "75%"}
 knitr::include_graphics("diagrams/data-science-model.png")
