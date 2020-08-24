@@ -1,21 +1,22 @@
-# Model assessment
+<-!---# Model assessment--->
+#Đánh giá mô hình
 
-In this chapter, you'll turn the tools of multiple models towards model assessment: learning how the model performs when given new data. So far we've focussed on models as tools for description, using models to help us understand the patterns in the data we have collected so far. But ideally a model will do more than just describe what we have seen so far - it will also help predict what will come next.  
+<-!---In this chapter, you'll turn the tools of multiple models towards model assessment: learning how the model performs when given new data. So far we've focussed on models as tools for description, using models to help us understand the patterns in the data we have collected so far. But ideally a model will do more than just describe what we have seen so far - it will also help predict what will come next.--->
 
-In other words, we want a model that doesn't just perform well on the sample, but also accurately summarises the underlying population.
+<-!---#In other words, we want a model that doesn't just perform well on the sample, but also accurately summarises the underlying population.--->
 
-In some industries this is primarily the use of models: you spend relatively little time fitting the model compared to how many times you use it.
+<-!---#In some industries this is primarily the use of models: you spend relatively little time fitting the model compared to how many times you use it.
 
-There are two basic ways that a model can fail with new data:
+<-!---#There are two basic ways that a model can fail with new data:
 
-* You can under- or over-fit the model.  Underfitting is where you fail
+<-!---#* You can under- or over-fit the model.  Underfitting is where you fail
   to model and important trend: you leave too much in the residuals, and not 
   enough in the model. Overfitting is the opposite: you fit a trend to
   what is actually random noise: you've too put much model and not left
   enough in the residuals. Generally overfitting tends to be more of a 
   problem than underfitting.
 
-* The process that generates the data might change. There's nothing the 
+<-!---#* The process that generates the data might change. There's nothing the 
   model can do about this. You can protect yourself against this to some
   extent by creating models that you understand and applying your knowledge
   to the problem. Are these fundamentals likely to change? If you have 
